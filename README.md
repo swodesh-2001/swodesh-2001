@@ -53,9 +53,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=swodesh-2001&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=swodesh-2001&show_icons=true&locale=en&layout=compact&theme=dark&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&icon_color=79ff97" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=swodesh-2001&" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=swodesh-2001&theme=dark&background=0d1117&currStreakLabel=ffffff&sideNums=c9d1d9&dates=ffffff&sideLabels=c9d1d9&currStreakNum=79ff97" alt="GitHub Streak" />
 </p>
