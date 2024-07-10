@@ -1,3 +1,4 @@
+![Cover](https://github.com/swodesh-2001/swodesh-2001/assets/70265297/791676a2-8f5a-4005-bbf1-c8eb0cfd0237)
 <h1 align="center">Hi 👋, I'm Swodesh Sharma</h1>
 <h3 align="center">Electrical Engineer with a Passion for Machine Learning: Driving Innovation at the Intersection of Power and AI | Power Electronics | Computer Vision | Energy Systems</h3>
 
